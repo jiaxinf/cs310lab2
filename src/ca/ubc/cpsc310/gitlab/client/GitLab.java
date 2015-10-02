@@ -39,5 +39,10 @@ public class GitLab implements EntryPoint {
 	
 		Window.alert("Loaded");
 		//ralgharosfghizPS
+
+	}
+	
+	public void yeah() {
+		
 	}
 }
